@@ -1,2 +1,2 @@
-TiDB相关课程学习test
+TiDB相关课程学习
 
